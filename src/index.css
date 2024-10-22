@@ -1,0 +1,13 @@
+@font-face {
+  font-family: eUkraine;
+  src: url(./eUkraine.otf);
+}
+
+*{
+  font-family: eUkraine;
+}
+
+
+body{
+  background-color: #f3f2f7;
+}
